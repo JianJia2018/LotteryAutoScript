@@ -9,7 +9,11 @@
 - 全量触发条件：不适用。
 - 代码完成：是
 - 验证完成：是
-- 已发布：否
+- 已发布：是
+  - 环境：`192.168.0.2` / `qinglong` / `/ql/scripts/LotteryAutoScript`
+  - 提交：`9a329ca0ddc31f8654aad7b5640be54615dd52c9`
+  - 时间：2026-08-25
+  - 验证：容器定向测试输出 `searcher_412_resume.test ... ok!`，工作区跟踪 `userfork/main` 且干净。
 - 历史数据已修复：不适用
 - 独立规格 review：通过
 - 独立代码风险 review：通过
